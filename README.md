@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web developibg
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me -email:ezazahmadshanto@gmail.com
-                       contact no:+8801758734189
+                       Contact no:+8801758734189
                        Facaebook link:https://www.facebook.com/ejaj.ahmad.7524/
 
 <!---
