@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ezaz-Ahmad
+- 👋 Hi, I’m @Ezaz Ahmad
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning full stack web developibg
 - 💞️ I’m looking to collaborate on a project
