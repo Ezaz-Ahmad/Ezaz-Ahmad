@@ -5,7 +5,7 @@
 - 📫 How to reach me -email:ezazahmadshanto@gmail.com
                        Contact no:+8801758734189.
                        Facaebook profile link:https://www.facebook.com/ejaj.ahmad.7524/
-                       portfolio:https://ezaz-ahmad.github.io/My-Responsive-Portfolio-Website/
+                       portfolio:https://ezaz-ahmad.github.io/portfolio/
 
 <!---
 Ezaz-Ahmad/Ezaz-Ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
