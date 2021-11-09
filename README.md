@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me -email:ezazahmadshanto@gmail.com
                        Contact no:+8801758734189.
-                       Facaebook profile link:https://www.facebook.com/ejaj.ahmad.7524/
+                       Facaebook profile link:https://www.facebook.com/EzazAhmad02
                        portfolio:https://ezaz-ahmad.github.io/portfolio/
 
 <!---
