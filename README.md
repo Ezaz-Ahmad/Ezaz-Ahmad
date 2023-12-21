@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Ezaz Ahmad
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning full stack web developing
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me -email:ezazahmadshanto@gmail.com
-                       Contact no:+8801758734189.
-                       Facaebook profile link:https://www.facebook.com/EzazAhmad02
-                       portfolio:https:https://www.ezazahmad.com/
+👋 Hi, I’m Ezaz Ahmad
+
+🔍 As a Computer Science graduate with a major in cybersecurity, I'm deeply interested in the intersection of web development and cyber security. My focus is on building secure and efficient web solutions.
+
+🌱 I’m currently enhancing my skills in cybersecurity, keeping abreast of the latest security protocols and web technologies.
+
+💞️ Looking to collaborate on projects where I can contribute to both the security aspect and web development.
+
+📫 How to reach me:
+- Email: ezazahmadshanto@gmail.com
+- Portfolio: [Ezaz Ahmad's Portfolio](https://www.ezazahmad.com/)
 
 <!---
 Ezaz-Ahmad/Ezaz-Ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
