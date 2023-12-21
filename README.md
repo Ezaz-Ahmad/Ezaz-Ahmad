@@ -5,7 +5,7 @@
 - 📫 How to reach me -email:ezazahmadshanto@gmail.com
                        Contact no:+8801758734189.
                        Facaebook profile link:https://www.facebook.com/EzazAhmad02
-                       portfolio:https:[ezaz](https://www.ezazahmad.com/)
+                       portfolio:https:https://www.ezazahmad.com/
 
 <!---
 Ezaz-Ahmad/Ezaz-Ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
