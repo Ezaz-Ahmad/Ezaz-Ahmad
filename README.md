@@ -1,8 +1,8 @@
 👋 Hi, I’m Ezaz Ahmad
 
-🔍 As a Computer Science graduate with a major in cybersecurity, I'm deeply interested in the intersection of web development and cyber security. My focus is on building secure and efficient web solutions.
+🔍 As a Computer Science undergraduate student majoring in cybersecurity, I'm deeply interested in the intersection of web development and cyber security. My focus is on building secure and efficient web solutions.
 
-🌱 I’m currently enhancing my skills in cybersecurity, keeping abreast of the latest security protocols and web technologies.
+🌱 I’m enhancing my cybersecurity skills, keeping abreast of the latest security protocols and web technologies.
 
 💞️ Looking to collaborate on projects where I can contribute to both the security aspect and web development.
 
