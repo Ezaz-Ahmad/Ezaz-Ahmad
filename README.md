@@ -4,8 +4,6 @@
 
 🌱 I’m enhancing my cybersecurity skills, keeping abreast of the latest security protocols and web technologies.
 
-💞️ Looking to collaborate on projects where I can contribute to both the security aspect and web development.
-
 📫 How to reach me:
 - Email: ezazahmadshanto@gmail.com
 - Portfolio: [Ezaz Ahmad's Portfolio](https://www.ezazahmad.com/)
