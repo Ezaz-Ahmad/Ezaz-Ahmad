@@ -7,7 +7,7 @@
 📫 How to reach me:  
 - **Email**: ezazahmadshanto@gmail.com  
 - **Portfolio**: [Ezaz Ahmad's Portfolio](https://www.ezazahmad.com/)  
-- **LinkedIn**: [Ezaz Ahmad](www.linkedin.com/in/ezazahmad)
+- **LinkedIn**: [Ezaz Ahmad](https://www.linkedin.com/in/ezazahmad)
  
 
 <!---
