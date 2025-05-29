@@ -7,7 +7,8 @@
 📫 How to reach me:  
 - **Email**: ezazahmadshanto@gmail.com  
 - **Portfolio**: [Ezaz Ahmad's Portfolio](https://www.ezazahmad.com/)  
-- **LinkedIn**: [Add your LinkedIn if applicable]  
+- **LinkedIn**: [Ezaz Ahmad](www.linkedin.com/in/ezazahmad)
+ 
 
 <!---
 Ezaz-Ahmad/Ezaz-Ahmad is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
