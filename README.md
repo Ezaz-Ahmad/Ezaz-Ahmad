@@ -1,6 +1,6 @@
 👋 Hi, I’m Ezaz Ahmad
 
-🔍 I’m a Computer Science undergraduate with a major in Cybersecurity, passionate about the dynamic intersection of web development and cybersecurity. My goal is to design secure, efficient, and innovative web solutions while leveraging offensive and defensive security techniques to protect digital ecosystems.
+🔍 I’m a Computer Science Graduate with a major in Cybersecurity, passionate about the dynamic intersection of web development and cybersecurity. My goal is to design secure, efficient, and innovative web solutions while leveraging offensive and defensive security techniques to protect digital ecosystems.
 
 🌱 I’m continuously sharpening my skills in cybersecurity by exploring the latest security protocols, threat landscapes, and web technologies. I’m proficient in Python, web frameworks, penetration testing tools, and malware analysis, with a keen interest in building robust defenses through understanding attack vectors.
 
